@@ -22,7 +22,7 @@ nav {
 
 .logo {
   font-size: 24px;
-  color: #fff;
+  color: #010101;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
@@ -44,6 +44,14 @@ a {
   text-decoration: none;
   color: #fff;
   font-size: 18px;
+}
+
+.hero h5{
+  color: #ffac2e;
+}
+
+.image-section{
+  align-content: end;
 }
 
 /* Dropdown styles if needed */
